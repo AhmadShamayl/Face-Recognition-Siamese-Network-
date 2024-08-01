@@ -1,0 +1,1 @@
+•	The development of a Deep Face Recognition Model using a Siamese Network is a notable advancement in computer vision and biometric authentication. It underscores the efficacy of deep learning and unique network structures in addressing complex facial recognition tasks. However, challenges were faced in translating the project into a functional application.
