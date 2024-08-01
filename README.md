@@ -15,10 +15,7 @@ NumPy
 OpenCV
 Matplotlib
 Installation
-Clone this repository:
 
-git clone https://github.com/yourusername/facerecognition.git
-cd facerecognition
 Install the required packages:
 
 
